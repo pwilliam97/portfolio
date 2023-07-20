@@ -1,0 +1,21 @@
+@media screen and (max-width: 1920px) {
+  .intro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  .intro > h1 {
+    margin-top: 15%;
+    margin-bottom: 0;
+  }
+  .intro > p {
+    margin-bottom: 0;
+  }
+  .intro > h2 {
+    display: flex;
+    justify-content: end;
+    padding-right: 15%;
+    margin-bottom: 0;
+  }
+}/*# sourceMappingURL=home.css.map */

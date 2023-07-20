@@ -1,0 +1,9 @@
+.service_presta {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.service_presta > h2, .service_presta h3 {
+  margin: 13% 5% 0 5%;
+  font-weight: normal;
+}/*# sourceMappingURL=cards_presta.css.map */

@@ -1,0 +1,10 @@
+.service_presta{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+    >h2,h3{
+        margin: 13% 5% 0 5%;
+        font-weight: normal;
+    }
+}

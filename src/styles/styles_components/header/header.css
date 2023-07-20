@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  align-items: center;
+}
+header > a {
+  width: 20%;
+}
+header > .header_list {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=header.css.map */
